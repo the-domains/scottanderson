@@ -1,0 +1,42 @@
+name: scottanderson
+analytics:
+  twitter: scottchicago
+purpose:
+  - type: contact
+    url: 'mailto:scottaand@gmail.com'
+    label: Contact me
+github: true
+description: Photography
+author:
+  name: Scott Anderson
+  email: scott@scott-anderson.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.1363859628327191
+color:
+  lightness: 0.0836557918228209
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  saturation: 0.2046793927438557
+  brandStrength: 0.06884095957502723
+  rhythmicContrast: 0.1534820487722754
+content_rating:
+  adult: false
+typography_spectrum: 0.1291245438624173
+opengraph: {}
+title: Scott Anderson
